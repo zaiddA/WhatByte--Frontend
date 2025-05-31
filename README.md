@@ -4,7 +4,7 @@ A modern e-commerce platform built with Next.js and Tailwind CSS.
 
 ## Live Demo
 
-[View Live Demo]([https://whatbytes-pro.vercel.app](https://whatbyte-frontend.vercel.app/?price=0-))
+[View Live Demo]([https://whatbytes-pro.vercel.app])
 
 ## Features
 
